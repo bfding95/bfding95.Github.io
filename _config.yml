@@ -23,7 +23,7 @@ navigation:
     url: /interview
   - name: 杂七杂八
     url: /life
-  - name: 杂七杂八
+  - name: 归类
     url: /archive
   - name: About Me
     url: /about
