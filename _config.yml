@@ -2,18 +2,9 @@
 name: 麻瓜日记
 description: Coding麻瓜 养了一只边牧 名字叫CoCo
 
-# 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
+# 输入你的网站域名
 url: 
-
-# 添加你的博客的二级域名，一般来说是你的repository名
-# 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
-# 那么就写成 "/repository-name"
 baseurl: ""
-
-
-#
-# 下面的设定都是可选的
-#
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
 avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
@@ -47,9 +38,9 @@ footer-links:
   email: bfding95@gmail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: https://github.com/bfding95
+  github: bfding95
   instagram: #https://instagram.com/<>
-  linkedin: https://www.linkedin.com/in/bofeng-ding/
+  linkedin: bofeng-ding
   pinterest: #https://www.pinterest.com/<>
   rss: #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
