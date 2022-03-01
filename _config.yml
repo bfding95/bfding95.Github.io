@@ -18,7 +18,7 @@ navigation:
   - name: Home
     url: /
   - name: 刷题笔记
-    url: /archive
+    url: /leetcode
   - name: 学习笔记
     url: /tags
   - name: About Me
