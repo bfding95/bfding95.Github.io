@@ -9,8 +9,8 @@ toc: true
 ---
 
 面试整理总结 查缺补漏！！
-### Google Phone Interview: 
-####Date: 3/1/2022
+## Google Phone Interview: 
+###Date: 3/1/2022
 
 45 分钟面试，印度面试官，电话回声有点严重，基本沟通没有问题。 偶尔有时候听不太清。
 上来问平时用什么语言，确认以后说会问一些data structures和problem solving。
