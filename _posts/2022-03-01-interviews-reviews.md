@@ -26,3 +26,22 @@ toc: true
 4. 提问：在google工作最享受什么 -> 和各个time zone的人沟通，worldwide influence.然后解决performance问题。
 
 总结: phone interview还是挺简单的。不过以后clarification还是要做好。 谨记！！！好好准备VO!
+
+## Apple Interview:
+###Date: 3/2/2022
+
+45分钟面试。问了java基础问题，last project, tech stack。java 8 新feature。
+
+Coding: 1. 写一个stream做filter和sorted 2. 两个class找出product所有parent 
+>  IPHONE 
+> 
+>  /         \
+> 
+> LOCKED UNLOCKED
+> 12, 13
+
+given stream of product. -> 遍历，找到所有parent -> 用hashMap存了找过的值，避免重复计算
+
+问的题目都挺简单，感觉这个组像是做产品data management system。
+
+最后问了组的main job和tech stack，果然和猜的一样..
