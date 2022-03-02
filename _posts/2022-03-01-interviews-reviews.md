@@ -9,8 +9,8 @@ toc: true
 ---
 
 面试整理总结 查缺补漏！！
-## Google Phone Interview: 
-###Date: 3/1/2022
+## Google Phone Interview
+Date: 3/1/2022
 
 45 分钟面试，印度面试官，电话回声有点严重，基本沟通没有问题。 偶尔有时候听不太清。
 上来问平时用什么语言，确认以后说会问一些data structures和problem solving。
@@ -27,8 +27,8 @@ toc: true
 
 总结: phone interview还是挺简单的。不过以后clarification还是要做好。 谨记！！！好好准备VO!
 
-## Apple Interview:
-###Date: 3/2/2022
+## Apple Interview
+Date: 3/2/2022
 
 45分钟面试。问了java基础问题，last project, tech stack。java 8 新feature。
 
