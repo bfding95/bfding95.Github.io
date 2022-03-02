@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### 03/01
-1. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) -- binary search
-2. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) -- stack
-3. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) -- matrix
-4.
+1. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) -- Binary Search
+2. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) -- Stack
+3. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) -- Matrix
+4. [Jump Game II](https://leetcode.com/problems/jump-game-ii/) -- DP, Greedy
 
 
