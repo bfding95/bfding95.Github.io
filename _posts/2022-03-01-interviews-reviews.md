@@ -45,3 +45,18 @@ given stream of product. -> 遍历，找到所有parent -> 用hashMap存了找�
 问的题目都挺简单，感觉这个组像是做产品data management system。
 
 最后问了组的main job和tech stack，果然和猜的一样..
+
+
+## Expedia Interview (1st round)
+
+input: List<String> maze, maxSteps, 判断是否可以从top-left到bottom-right.
+
+recursion. 
+
+follow up: 找最短路径 return int，找最短路径 return path 说idea就行。
+
+-> 面试官还比较满意，但是自己感觉return path的还是说得不好，需要巩固一下。
+
+没有考虑到如果没有path的情况。
+
+总结：Time complexity和space complexity说的还是不够自信
