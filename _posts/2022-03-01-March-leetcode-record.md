@@ -20,4 +20,9 @@ ToDo: 熟悉熟练BackTracking题目
 3. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) -- Matrix
 4. [Jump Game II](https://leetcode.com/problems/jump-game-ii/) -- DP, Greedy
 
+### 03/02
+1. [Jump Game](https://leetcode.com/problems/jump-game/) -- DP Greedy
+2. [Jump Game III](https://leetcode.com/problems/jump-game-iii/) -- DFS, BFS
+3. [Jump Game IV](https://leetcode.com/problems/spiral-matrix/) -- BFS - find the short path length
 
+今日总结：吃透了一波Jump Game的Greedy。好久没有刷BFS都有点生疏了，III 和IV练了一波手。继续加油！！
