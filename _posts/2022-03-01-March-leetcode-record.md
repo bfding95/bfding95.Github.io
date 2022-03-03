@@ -6,6 +6,7 @@ Author: 麻瓜码农
 categories: [leetcode]
 tags: [Daily Record]
 comments: true
+toc: true
 ---
 
 2022年三月刷题记录。每日5题，做到每题时间空间复杂度熟练分析！！
