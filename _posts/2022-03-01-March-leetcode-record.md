@@ -31,3 +31,5 @@ ToDo: 熟悉熟练BackTracking题目
 1. [Jump Game V](https://leetcode.com/problems/jump-game-v/) -- DFS + DP
 2. [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) -- DP + Sliding Window(Deque)
 3. [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) -- Deque
+4. [Merge Intervals](https://leetcode.com/problems/merge-intervals/submissions/) -- sort
+5. [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list) - recursion 
