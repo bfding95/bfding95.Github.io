@@ -33,3 +33,8 @@ ToDo: 熟悉熟练BackTracking题目
 3. [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) -- Deque
 4. [Merge Intervals](https://leetcode.com/problems/merge-intervals/submissions/) -- sort
 5. [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list) - recursion 
+
+### 03/06
+1. [Append-K Integer with min Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum) - Math!
+2. [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) - Loop
+3. [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)
