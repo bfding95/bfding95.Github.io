@@ -45,5 +45,5 @@ ToDo: 熟悉熟练BackTracking题目
 ### 03/07
 1. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) - sort + pq
 2. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) - two PQ find median (minHeap + maxHeap)
-
+3. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) hashMap
 总结：find median的题值得好好再研究一下，如何balance两个heap非常关键！！
