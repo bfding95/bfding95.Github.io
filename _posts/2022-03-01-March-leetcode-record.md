@@ -39,3 +39,11 @@ ToDo: 熟悉熟练BackTracking题目
 2. [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) - Loop
 3. [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) - HashMap
 4. [Interleaving String](https://leetcode.com/problems/interleaving-string/) - DP
+5. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+6. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) DFS - recursion/stack
+
+### 03/07
+1. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) - sort + pq
+2. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) - two PQ find median (minHeap + maxHeap)
+
+总结：find median的题值得好好再研究一下，如何balance两个heap非常关键！！
