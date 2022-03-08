@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 面试reviews
+title: Find Median
 date: 2022-03-01
 author: 麻瓜码农
-categories: [interview]
+categories: [leetcode]
+tags: [Binary Search]
 comments: true
 toc: true
 ---
